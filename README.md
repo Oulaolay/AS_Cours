@@ -1,6 +1,5 @@
 # AS_Cours
 ### Statistical Learning Course of Master DAC (Données, Apprentissage & Connaissances) in UMPC.
-<img src="icon.png" align="right" />
 ### Summary
 * [Handling Torch & Linear Regression](https://github.com/Oulaolay/AS_Cours/blob/master/TP1/TP1_AS.ipynb) - First pratical exercice handling the Torch software and the lua language. Introduction to gradient descent methods (Stochastic gradient descent, Batch gradient descent).                                                           
 A summary of article  which gives an intuitive description of descent gradient methods (ie, batch, sgd, adadelta, rmsprop, nag, adam) : [An overview of gradient descent optimisation algorithms](http://sebastianruder.com/optimizing-gradient-descent/).
