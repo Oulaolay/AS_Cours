@@ -16,9 +16,14 @@ A summary of article  which gives an intuitive description of descent gradient m
 
 * [Gated Recurrent Unit, RNN](https://github.com/Oulaolay/AS_Cours/blob/master/TP6%20%26%207/TP7.ipynb) - GRU & RNN implementation. 
 
-* [Generative Adversarial Nets](https://github.com/Oulaolay/AS_Cours/blob/master/GAN_Project/Rapport_GAN_Basile_Guerrapin_Timothee_Poulain.pdf) - Project with [Basile Guerrapin](https://github.com/guerrapin), understanding and implementation GAN. (coming soon)               
+* [Generative Adversarial Nets](https://github.com/Oulaolay/AS_Cours/blob/master/GAN_Project/Rapport_GAN_Basile_Guerrapin_Timothee_Poulain.pdf) - Project with [Basile Guerrapin](https://github.com/guerrapin), understanding and implementation GAN. (coming soon)     
 
-### Installing Dependencies 
+* [Stochastic model](https://github.com/Oulaolay/AS_Cours/blob/master/TP9_10/TP9_10_AS.lua)  Simple & General Stochastic Architectures Implementation 
+
+* [Reinforcement learning](https://github.com/Oulaolay/AS_Cours/blob/master/TP11_12/TP11_12_AS.lua) Deep Q-Learning with Experience Replay Implementation
+
+### Installing Dependencies ]
+
 * Install Torch
 * Install the nngraph and several packages : 
 ```
@@ -35,5 +40,6 @@ _ [4] [An introduction to Generative Adversarial Networks (with code in TensorFl
 _ [5] [The Eyescream Project](http://soumith.ch/eyescream/)                
 _ [6] [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/pdf/1506.05751v1.pdf)        
 _ [7] [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
-
-
+_ [8][Deep Sequential Neural Network](https://arxiv.org/pdf/1410.0510v1.pdf)
+_ [9][(Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://incompleteideas.net/sutton/williams-92.pdf)
+_ [10][(Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/pdf/1506.05254v3.pdf)
