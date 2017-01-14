@@ -30,6 +30,15 @@ A summary of article  which gives an intuitive description of descent gradient m
 luarocks install nngraph
 luarocks install nn
 ```
+* Install rlenvs packages for Reinforcement Learning :
+```
+luarocks install rlenvs
+
+-- Using CartPole environment
+local CartPole = require 'rlenvs.CartPole'
+local env = CartPole()
+local observation = env:start()
+```
 
 
 ### Articles
@@ -40,6 +49,6 @@ _ [4] [An introduction to Generative Adversarial Networks (with code in TensorFl
 _ [5] [The Eyescream Project](http://soumith.ch/eyescream/)                
 _ [6] [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/pdf/1506.05751v1.pdf)
 _ [7] [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)      
-_ [8][Deep Sequential Neural Network](https://arxiv.org/pdf/1410.0510v1.pdf)       
-_ [9][Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://incompleteideas.net/sutton/williams-92.pdf)     
-_ [10][Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/pdf/1506.05254v3.pdf)
+_ [8] [Deep Sequential Neural Network](https://arxiv.org/pdf/1410.0510v1.pdf)       
+_ [9] [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://incompleteideas.net/sutton/williams-92.pdf)     
+_ [10] [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/pdf/1506.05254v3.pdf)
