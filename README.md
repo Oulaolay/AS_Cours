@@ -12,8 +12,10 @@ A summary of article  which gives an intuitive description of descent gradient m
 
 * [Graph node, Complicated architectures](https://github.com/Oulaolay/AS_Cours/blob/master/TP5/TP5_Timothee_Poulain.ipynb) - Complex structures implementation with library [nn.graph](http://github.com/torch/nngraph).     
 
-* [Highway Network](https://github.com/Oulaolay/AS_Cours/blob/master/TP6%20%26%207/TP6.ipynb) - coming soon.      
+* [Highway Network](https://github.com/Oulaolay/AS_Cours/blob/master/TP6%20%26%207/TP6.ipynb) - coming soon.   
+
 * [Gated Recurrent Unit, RNN](https://github.com/Oulaolay/AS_Cours/blob/master/TP6%20%26%207/TP7.ipynb) - GRU & RNN implementation. 
+
 * [Generative Adversarial Nets](https://github.com/Oulaolay/AS_Cours/blob/master/GAN_Project/Rapport_GAN_Basile_Guerrapin_Timothee_Poulain.pdf) - Project with [Basile Guerrapin](https://github.com/guerrapin), understanding and implementation GAN. (coming soon)               
 
 ### Installing Dependencies 
