@@ -18,11 +18,11 @@ A summary of article  which gives an intuitive description of descent gradient m
 
 * [Generative Adversarial Nets](https://github.com/Oulaolay/AS_Cours/blob/master/GAN_Project/Rapport_GAN_Basile_Guerrapin_Timothee_Poulain.pdf) - Project with [Basile Guerrapin](https://github.com/guerrapin), understanding and implementation GAN. (coming soon)     
 
-* [Stochastic model](https://github.com/Oulaolay/AS_Cours/blob/master/TP9_10/TP9_10_AS.lua) - Simple & General Stochastic Architectures Implementation 
+* [Stochastic model](https://github.com/Oulaolay/AS_Cours/blob/master/TP9_10/TP9_10.lua) - Simple & General Stochastic Architectures Implementation 
 
-* [Reinforcement learning](https://github.com/Oulaolay/AS_Cours/blob/master/TP11_12/TP11_12_AS.lua) - Deep Q-Learning with Experience Replay Implementation
+* [Reinforcement learning](https://github.com/Oulaolay/AS_Cours/blob/master/TP11_12/TP11_12.lua) - Deep Q-Learning with Experience Replay Implementation
 
-### Installing Dependencies ]
+### Installing Dependencies 
 
 * Install Torch
 * Install the nngraph and several packages : 
