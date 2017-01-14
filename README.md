@@ -18,9 +18,9 @@ A summary of article  which gives an intuitive description of descent gradient m
 
 * [Generative Adversarial Nets](https://github.com/Oulaolay/AS_Cours/blob/master/GAN_Project/Rapport_GAN_Basile_Guerrapin_Timothee_Poulain.pdf) - Project with [Basile Guerrapin](https://github.com/guerrapin), understanding and implementation GAN. (coming soon)     
 
-* [Stochastic model](https://github.com/Oulaolay/AS_Cours/blob/master/TP9_10/TP9_10_AS.lua)  Simple & General Stochastic Architectures Implementation 
+* [Stochastic model](https://github.com/Oulaolay/AS_Cours/blob/master/TP9_10/TP9_10_AS.lua) - Simple & General Stochastic Architectures Implementation 
 
-* [Reinforcement learning](https://github.com/Oulaolay/AS_Cours/blob/master/TP11_12/TP11_12_AS.lua) Deep Q-Learning with Experience Replay Implementation
+* [Reinforcement learning](https://github.com/Oulaolay/AS_Cours/blob/master/TP11_12/TP11_12_AS.lua) - Deep Q-Learning with Experience Replay Implementation
 
 ### Installing Dependencies ]
 
@@ -38,7 +38,7 @@ _ [2] [Empirical Evaluation of Gated Recurrent Neural Network on Sequence Modeli
 _ [3] [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy      
 _ [4] [An introduction to Generative Adversarial Networks (with code in TensorFlow)](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)                     
 _ [5] [The Eyescream Project](http://soumith.ch/eyescream/)                
-_ [6] [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/pdf/1506.05751v1.pdf)        
+_ [6] [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/pdf/1506.05751v1.pdf)
 _ [7] [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
 _ [8][Deep Sequential Neural Network](https://arxiv.org/pdf/1410.0510v1.pdf)
 _ [9][(Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://incompleteideas.net/sutton/williams-92.pdf)
